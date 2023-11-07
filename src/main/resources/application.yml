@@ -30,8 +30,8 @@ spring:
     # google smtp server 사용
     host: smtp.gmail.com
     port: 587
-    username: songwc333@gmail.com
-    password: lqbppyxhkethghnb
+    username: x
+    password: x
     properties: # 이메일 구성에 대한 추가 속성
       mail:
         smtp:
